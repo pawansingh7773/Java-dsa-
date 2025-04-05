@@ -1,3 +1,4 @@
+//Binary search question
 public class binarytry {
 
     public static int binary(int [] arr , int target){
